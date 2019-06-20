@@ -16,7 +16,7 @@ class App extends Component {
 				<AppBar elevation={0} position="relative" classes={{ root: classes.root }}>
 					<Toolbar>
 						<Typography variant="h6" className={classes.title}>
-							NextGen
+							Aspire
 						</Typography>
 						<Button color="inherit">Signup</Button>
 						<Button color="inherit">Login</Button>

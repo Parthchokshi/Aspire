@@ -39,7 +39,7 @@ class App extends Component {
 								<Grid item className={classes.title}>
 									<Button component={AdapterLink} to="/">
 										<Typography variant="body1" className={classes.link}>
-											ALTIMA
+											Aspire
 										</Typography>
 									</Button>
 								</Grid>
