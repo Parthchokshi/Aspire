@@ -29,7 +29,7 @@ const Headline = ({ classes }) => (
     <Typography variant="h4" className={classes.tagline}>
 			One of the world’s first
       <br />
-			video focused hiring platform
+			video description hiring platform
     </Typography>
   </Grid>
 )
